@@ -1,0 +1,3 @@
+Submission Create a Grit repository Python_OOP_MExam_YourSurname. Add five runnable files named exercise_26.py through exercise_30.py and a README.md with Python 3 run instructions. Email your instructor the repository URL. if the repository is private, grant your instructor access before sending the link.
+
+implement the required classes in each file. the code blocks give the variables and calls your program must suport; they are not thee class solutions. Run each file and comfirm its output matches the block shown. Equivalent working implementations earn credit. Each Exercise is worth 15 points.
